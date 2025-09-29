@@ -66,7 +66,7 @@ pip install requests psutil matplotlib
 Edit the target IP address in `main()` of `advanced_router_analyzer.py`:
 
 ```python
-target_ip = "192.168.1.1"  # replace with your router IP
+target_ip = "1354.1589.16.21"  # replace with your router IP
 ```
 
 Run the analyzer:
@@ -159,4 +159,5 @@ PRs are welcome! If you have improvements (e.g., better graphs, safer tests, log
 * Memory usage shows script footprint.
 * Network graphs illustrate request/response patterns.
 * Final report helps understand router resilience under stress.
+
 
