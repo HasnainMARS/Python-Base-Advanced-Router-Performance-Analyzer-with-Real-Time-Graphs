@@ -36,8 +36,8 @@ Unauthorized testing may be illegal and disruptive.
 Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/router-analyzer.git
-cd router-analyzer
+git clone https://github.com/HasnainMARS/Python-Base-Advanced-Router-Performance-Analyzer-with-Real-Time-Graphs.git
+cd Python-Base-Advanced-Router-Performance-Analyzer-with-Real-Time-Graphs
 ```
 
 Create a virtual environment (recommended):
@@ -159,3 +159,4 @@ PRs are welcome! If you have improvements (e.g., better graphs, safer tests, log
 * Memory usage shows script footprint.
 * Network graphs illustrate request/response patterns.
 * Final report helps understand router resilience under stress.
+
